@@ -1,4 +1,4 @@
 # php-mvc
 
-## EDO SUGITA IBRAHIM
-### 1316738
+## Nama : Edo Sugita Ibrahim
+### ID : 1316738
